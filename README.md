@@ -1,6 +1,6 @@
 <!-- a normal html comment -->
 # Rose Hack 2022 - Hacker Resources
-Welcome to Rose Hack 2021! Here we've compiled some helptul guides and tutorials that you might find useful this weekend. If you have any further questions about anything here, you can request help from mentors from Slack. Happy hacking!
+Welcome to Rose Hack 2022! Here we've compiled some helptul guides and tutorials that you might find useful this weekend. If you have any further questions about anything here, you can request help from mentors from Slack. Happy hacking!
 
 ## :computer: terminal
 The terminal on your computer is one of the most powerful resources you have when building a project. Terminal setups can be different for different operating systems; Once you get yours up and running you'll be pushing pixels in no time.
